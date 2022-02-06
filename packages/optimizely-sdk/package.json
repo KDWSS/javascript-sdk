@@ -58,7 +58,7 @@
     "bluebird": "^3.4.6",
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
-    "eslint": "^6.7.2",
+    "eslint": "^7.0.0",
     "json-loader": "^0.5.4",
     "karma": "^4.4.1",
     "karma-browserstack-launcher": "^1.5.1",
